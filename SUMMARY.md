@@ -1,5 +1,6 @@
 # Table of contents
 
-* [DRF\_permissions](README.md)
+* [Introduction](README.md)
+* [DRF\_permissions](drf_permissions.md)
 * [README](readme.md)
 
