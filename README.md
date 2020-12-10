@@ -1,8 +1,18 @@
 ---
-description: discription of the project.
+description: django会不会默认给foreignkey建立index
 ---
 
-# README
+# Django-django会不会默认给foreignkey建立index
 
-I'll write it later when I have time. 
+## 使用Explain 
+
+explain 看一下 select \* from xxx where xxx\_id=xxx 会不会用到
+
+## 使用
+
+sql console Li show index
+
+## 结论
+
+django会默认给foreign key建立index
 
