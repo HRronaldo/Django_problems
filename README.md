@@ -35,7 +35,9 @@ description: '"GET /api/accounts/ HTTP/1.1" 404 4509'
 
 Unfortunately，又遇到了另一个报错AssertionError（当assert断言条件为假的时候抛出的异常）
 
-阅读一下报错信息：“The field 'emial' was declared on serializer SignupSerializer, but has not been included in the 'fields' option.”
+阅读一下报错信息：“The field 'emial' was declared on serializer SignupSerializer, but has not been included in the 'fields' option. ”意思是：字段“ emial”已在序列化程序SignupSerializer上声明，但未包含在“ fields”选项中。
+
+待解决……
 
 
 
