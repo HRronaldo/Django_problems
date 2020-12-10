@@ -37,7 +37,11 @@ Unfortunately，又遇到了另一个报错AssertionError（当assert断言条�
 
 阅读一下报错信息：“The field 'emial' was declared on serializer SignupSerializer, but has not been included in the 'fields' option. ”意思是：字段“ emial”已在序列化程序SignupSerializer上声明，但未包含在“ fields”选项中。
 
-待续……
+此时，让我们回到serializers.py中
+
+![/accounts/api/serializers.py](.gitbook/assets/tu-pian-%20%285%29.png)
+
+发现，fields中明明有mail
 
 
 
