@@ -41,7 +41,8 @@ Unfortunately，又遇到了另一个报错AssertionError（当assert断言条�
 
 ![/accounts/api/serializers.py](.gitbook/assets/tu-pian-%20%285%29.png)
 
-发现，fields中明明有mail
+发现，fields中明明有email ，为什么会报这个错呢？  
+哦~~~原来如此，发现是拼写错误，将email拼写成了emial，更改+保存，迫不及待的再进入browser试试。
 
 
 
