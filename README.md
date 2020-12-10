@@ -44,7 +44,11 @@ Unfortunately，又遇到了另一个报错AssertionError（当assert断言条�
 发现，fields中明明有email ，为什么会报这个错呢？  
 哦~~~原来如此，发现是拼写错误，将email拼写成了emial，更改+保存，迫不及待的再进入browser试试。
 
+ongratulations！！！
 
+![browser: http://127.0.0.1:8000/api/accounts/login/](.gitbook/assets/tu-pian-%20%286%29.png)
+
+成功的看到界面啦！Debug成功~
 
 
 
