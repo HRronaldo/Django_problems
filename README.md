@@ -27,7 +27,11 @@ description: '"GET /api/accounts/ HTTP/1.1" 404 4509'
 ![browser: http://127.0.0.1:8000/api/accounts/](.gitbook/assets/tu-pian-%20%283%29.png)
 
 仔细阅读下面的5-10，发现原来accounts应该这么用：  
-accounts/login/
+例如：accounts/login/
+
+那就来尝试一下accounts/login/ ：
+
+fortunately
 
 
 
