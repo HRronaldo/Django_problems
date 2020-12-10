@@ -31,7 +31,11 @@ description: '"GET /api/accounts/ HTTP/1.1" 404 4509'
 
 那就来尝试一下accounts/login/ ：
 
-fortunately
+![browser: http://127.0.0.1:8000/api/accounts/login/](.gitbook/assets/tu-pian-%20%284%29.png)
+
+Unfortunately，又遇到了另一个报错AssertionError（当assert断言条件为假的时候抛出的异常）
+
+阅读一下报错信息：“The field 'emial' was declared on serializer SignupSerializer, but has not been included in the 'fields' option.”
 
 
 
