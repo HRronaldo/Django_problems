@@ -22,7 +22,12 @@ description: '"GET /api/accounts/ HTTP/1.1" 404 4509'
 
 发现router有accounts且写的没问题，推断应该不是忘记写url了。
 
-这时候，我们在
+这时候，我们在去看一眼browser的页面：
+
+![browser: http://127.0.0.1:8000/api/accounts/](.gitbook/assets/tu-pian-%20%283%29.png)
+
+仔细阅读下面的5-10，发现原来accounts应该这么用：  
+accounts/login/
 
 
 
