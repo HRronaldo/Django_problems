@@ -46,9 +46,3 @@ description: django项目（restful），模拟Twitter
 1. 先修知识
 2. 配套的练习题（面试题&自己出题）
 
-
-
-
-
-
-
