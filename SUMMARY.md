@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Signin & Signup](README.md)
 * [DRF\_permissions](drf_permissions.md)
 * [README](readme.md)
 
