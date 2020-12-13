@@ -4,4 +4,5 @@
 * [Ubuntu 18.04 解决MySQL ERROR 2002 \(HY000\)](ubuntu-18.04-jie-jue-mysql-error-2002-hy000.md)
 * [Django-django是否自动为外键列生成索引](djangodjango-shi-fou-zi-dong-wei-wai-jian-lie-sheng-cheng-suo-yin.md)
 * [Twitter项目](twitter-xiang-mu.md)
+* [Shell中判断上一个命令执行成功与否](shell-zhong-pan-duan-shang-yi-ge-ming-ling-zhi-hang-cheng-gong-yu-fou.md)
 
