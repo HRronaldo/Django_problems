@@ -6,4 +6,5 @@
 * [Twitter项目](twitter-xiang-mu.md)
 * [Shell中判断上一个命令执行成功与否](shell-zhong-pan-duan-shang-yi-ge-ming-ling-zhi-hang-cheng-gong-yu-fou.md)
 * [generic object 会不会自动对 object\_id 和 content\_type 创建联合索引](generic-object-hui-bu-hui-zi-dong-dui-objectid-he-contenttype-chuang-jian-lian-he-suo-yin.md)
+* [MySQL向某张表中循环添加数据](mysql-xiang-mou-zhang-biao-zhong-xun-huan-tian-jia-shu-ju.md)
 
