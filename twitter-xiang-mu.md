@@ -40,6 +40,7 @@ description: django项目（restful），模拟Twitter
    3. 如何去搜索资料
    4. 如何解决
    5. 复现代码以及记录bug&debug
+   6. 要把tag和bugs对应起来，按照tags的名字来记录可能出现的bugs
 
 ### T1--准备先修知识
 
