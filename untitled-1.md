@@ -6,7 +6,7 @@ description: model 里的 generic object 会不会自动对 object_id 和 conten
 
 首先在项目的models.py 里面新建一个model用来验证django 会不会自动给object\_id 和content\_type 创建联合索引
 
-![models.py](.gitbook/assets/tu-pian-%20%2817%29.png)
+![models.py](.gitbook/assets/tu-pian-%20%2818%29.png)
 
 
 
@@ -22,7 +22,7 @@ description: model 里的 generic object 会不会自动对 object_id 和 conten
 
 请注意：
 
-![mysql](.gitbook/assets/tu-pian-%20%2816%29.png)
+![mysql](.gitbook/assets/tu-pian-%20%2817%29.png)
 
 划线部分分别是两行的Column\_name，所以，得出结论：  
 generic object**不会**自动对object\_id 和content\_type 创建联合索引。
