@@ -12,7 +12,13 @@ description: model 里的 generic object 会不会自动对 object_id 和 conten
 
 在MySQL 中，使用`use twitter;` 命令将数据库切换成twitter，然后使用`show tables;` 查看所有表。
 
-使用
+使用show index from accounts\_testmodel \G; 来查看你新建的model 所生成的索引：
+
+> accounts\_testmodel 是你新建的model 在migrate 后生成的表名
+
+![mysql](.gitbook/assets/tu-pian-%20%286%29.png)
+
+请注意：
 
 
 
