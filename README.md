@@ -37,18 +37,3 @@ Unfortunately，又遇到了另一个报错AssertionError（当assert断言条�
 
 阅读一下报错信息：“The field 'emial' was declared on serializer SignupSerializer, but has not been included in the 'fields' option. ”意思是：字段“ emial”已在序列化程序SignupSerializer上声明，但未包含在“ fields”选项中。
 
-此时，让我们回到serializers.py中
-
-![/accounts/api/serializers.py](.gitbook/assets/tu-pian-%20%285%29.png)
-
-发现，fields中明明有email ，为什么会报这个错呢？  
-哦~~~原来如此，发现是拼写错误，将email拼写成了emial，更改+保存，迫不及待的再进入browser试试。
-
-Congratulations！！！
-
-![browser: http://127.0.0.1:8000/api/accounts/login/](.gitbook/assets/tu-pian-%20%286%29.png)
-
-成功的看到界面啦！Debug成功~
-
-
-
