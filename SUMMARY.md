@@ -9,4 +9,5 @@
 * [逗号位置](dou-hao.md)
 * [Tests for tweets API报错](tests-for-tweets-api-bao-cuo.md)
 * [疑惑：关于services.py&tests.py](yi-huo-guan-yu-services.pytests.py.md)
+* [疑惑：关于bulk\_create](yi-huo-guan-yu-bulkcreate.md)
 
