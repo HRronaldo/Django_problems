@@ -14,7 +14,9 @@ FAIL: test\_create\_with\_files \(tweets.api.tests.TweetAPITests\)
 
 ![tests.py](.gitbook/assets/tu-pian-%20%2831%29.png)
 
+正确写法：
 
+![tests.py](.gitbook/assets/tu-pian-%20%2833%29.png)
 
 
 
