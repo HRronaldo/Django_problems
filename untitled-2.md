@@ -18,7 +18,7 @@ FAIL: test\_create\_with\_files \(tweets.api.tests.TweetAPITests\)
 
 ![tests.py](.gitbook/assets/tu-pian-%20%2834%29.png)
 
-
+后续会更新……
 
 
 
