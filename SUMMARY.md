@@ -12,4 +12,5 @@
 * [疑惑：关于bulk\_create](yi-huo-guan-yu-bulkcreate.md)
 * [NewsFeeds views.py报错](newsfeeds-views.py-bao-cuo.md)
 * [SimpleUploadedFile报错](untitled-2.md)
+* [疑惑：关于step 11: optimize comments](yi-huo-guan-yu-step-11-optimize-comments.md)
 
