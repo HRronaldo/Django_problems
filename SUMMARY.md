@@ -13,4 +13,5 @@
 * [NewsFeeds views.py报错](newsfeeds-views.py-bao-cuo.md)
 * [SimpleUploadedFile报错](untitled-2.md)
 * [疑惑：关于step 11: optimize comments](yi-huo-guan-yu-step-11-optimize-comments.md)
+* [Add like后关于tweets/api/serializer报错](add-like-hou-guan-yu-tweetsapiserializer-bao-cuo.md)
 
