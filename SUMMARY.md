@@ -14,4 +14,5 @@
 * [SimpleUploadedFile报错](untitled-2.md)
 * [疑惑：关于step 11: optimize comments](yi-huo-guan-yu-step-11-optimize-comments.md)
 * [Add like后关于tweets/api/serializer报错](add-like-hou-guan-yu-tweetsapiserializer-bao-cuo.md)
+* [关于/utils/decorators.py报错](guan-yu-utilsdecorators.py-bao-cuo.md)
 
